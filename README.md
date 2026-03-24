@@ -1,5 +1,6 @@
 &#x20;Telegram RAG + Vision Bot
-
+## snippet of my telegram bot 
+<img width="1104" height="929" alt="image" src="https://github.com/user-attachments/assets/68a3908b-a93d-4688-bc17-11d1a5507cfa" />
 
 
 A lightweight multimodal AI assistant built using:
