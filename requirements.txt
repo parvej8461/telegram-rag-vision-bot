@@ -1,0 +1,10 @@
+python-telegram-bot==20.7
+python-dotenv
+sentence-transformers
+chromadb
+requests
+pillow
+transformers
+torch
+torchvision
+langchain-text-splitters
